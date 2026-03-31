@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nafis 👋
 
-<!--
-**nafiselq/nafiselq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter & Frontend Developer  
+💡 Passionate about scalable apps & clean architecture  
 
-Here are some ideas to get you started:
+## Tech Stack
+- Flutter
+- React / Next.js
+- BLoC / State Management
+- Node.js / Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Build production-ready mobile apps
+- Focus on performance & maintainability
+- Clean Architecture enthusiast
+
+## Open to
+🌍 Remote opportunities / Singapore roles
