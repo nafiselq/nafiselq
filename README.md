@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafiselq&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiselq&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nafiselq&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiselq&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -66,8 +66,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (isi nanti)
-* Email: (opsional)
+* LinkedIn: [Nafis El Qurtubhi](https://www.linkedin.com/in/nafis-el-qurtubhi-6aaa0b36b)
+* Email: [nafiselq7@gmail.com](mailto:nafiselq7@gmail.com)
 
 ---
 
