@@ -1,18 +1,74 @@
-# Hi, I'm Nafis 👋
+<h1 align="center">Hi 👋, I'm Nafis</h1>
+<h3 align="center">🚀 Flutter & Frontend Developer | Clean Architecture Enthusiast</h3>
 
-🚀 Flutter & Frontend Developer  
-💡 Passionate about scalable apps & clean architecture  
+<p align="center">
+  <a href="https://github.com/nafiselq">
+    <img src="https://komarev.com/ghpvc/?username=nafiselq&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-## Tech Stack
-- Flutter
-- React / Next.js
-- BLoC / State Management
-- Node.js / Express
+---
 
-## What I Do
-- Build production-ready mobile apps
-- Focus on performance & maintainability
-- Clean Architecture enthusiast
+## 🚀 About Me
 
-## Open to
-🌍 Remote opportunities / Singapore roles
+* 🔭 Currently focusing on **Flutter & Mobile Development**
+* 💡 Love building **scalable & maintainable apps**
+* 🧠 Strong in **Clean Architecture & Backend Integration**
+* 🌍 Open for **Remote Jobs / Singapore Opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile
+
+* Flutter
+* React Native
+
+### 🌐 Frontend
+
+* React / Next.js
+* HTML / CSS / JavaScript
+
+### ⚙️ Backend
+
+* Node.js / Express
+* Laravel
+
+### 🧠 Architecture
+
+* Clean Architecture
+* BLoC (State Management)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafiselq&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiselq&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 📱 Coming Soon (Killer Project)
+
+🚀 Currently building a **production-ready Flutter app** with:
+
+* Clean Architecture
+* BLoC
+* API Integration
+* Authentication & Pagination
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (isi nanti)
+* Email: (opsional)
+
+---
+
+⭐️ *"Code is not just working, it's about scalability and clarity."*
