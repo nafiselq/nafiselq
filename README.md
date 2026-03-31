@@ -45,12 +45,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nafiselq&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiselq&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nafiselq&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiselq&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
+<!--
 ## 🔥 Featured Projects
 
 ### 📱 Coming Soon (Killer Project)
@@ -61,6 +62,7 @@
 * BLoC
 * API Integration
 * Authentication & Pagination
+-->
 
 ---
 
