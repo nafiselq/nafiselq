@@ -51,7 +51,7 @@
 
 ---
 
-<!--
+
 ## 🔥 Featured Projects
 
 ### 📱 Coming Soon (Killer Project)
@@ -62,7 +62,6 @@
 * BLoC
 * API Integration
 * Authentication & Pagination
--->
 
 ---
 
